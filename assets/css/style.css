@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 :root {
-  --primary-color: rgb(17, 86, 102);
-  --primary-color-darker: rgb(9, 48, 56);
-  --background: rgb(128, 128, 128);
+  --primary-color: rgb(53, 53, 53);
+  --primary-color-darker: rgb(35, 35, 35);
+  --background-color: rgb(128, 128, 128);
 }
 
 * {
@@ -13,7 +13,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: var(--background);
+  background: var(--background-color);
   font-family: 'Open sans', sans-serif;
   font-size: 1.3em;
   line-height: 1.5em;
