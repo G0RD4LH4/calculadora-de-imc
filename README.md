@@ -1,6 +1,6 @@
 # Calculadora para índice de massa corporal ( IMC ).
 
-## Lembrete: Foi um desafio do meu curso.
+## Lembrete: Foi um desafio do curso.
 
  **Recursos:**
  - Inserir peso.
